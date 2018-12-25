@@ -1,0 +1,38 @@
+.content-container
+{
+    background-color: #e8e8e8;
+    overflow: auto;
+}
+.product-container
+{
+    overflow: auto;
+}
+.image-erea
+{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    margin: 20px 0 20px 50px;
+    box-sizing: border-box;
+    float: left;
+}
+.detail-erea
+{
+    width: 750px;
+    height: 400px;
+    background-color: white;
+    margin: 20px 50px 20px 0;
+    padding: 20px;
+    color : green;
+    box-sizing: border-box;
+    float: right;
+}
+.review-rating-erea
+{
+    width: 1165px;
+    height: 250px;
+    background-color: white;
+    margin: 0 50px 20px 50px;
+    box-sizing: border-box;
+    overflow: auto;
+}

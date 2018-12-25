@@ -1,0 +1,12 @@
+#background {
+	font-size: 30px;
+	position: absolute;
+    top:100px;
+    width: 100%;
+    text-align: center;
+    background:green;
+    
+}
+#table{
+	top : 100px;
+}

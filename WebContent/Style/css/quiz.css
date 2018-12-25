@@ -1,0 +1,97 @@
+.body {
+  background-color: #eeeeee;
+}
+.padding {
+  padding: 15px 15px 15px 15px;
+}
+h4 {
+  font-weight: 300;
+  margin: 0 15px 15px 15px;
+}
+.container {
+  padding-top: 120px;
+  height: 95vh;
+  background-color: #eeeeee;
+}
+.navbar {
+  font-weight: 300;
+  width: 100%;
+  position: fixed;
+  height: 60px;
+  background: linear-gradient(120deg, #3498db, #5dade2);
+  padding: 0 50px;
+}
+.navbar .login-button {
+  background-color: transparent;
+  border-color: white;
+  color: white;
+  transition: 0.3s;
+}
+.navbar .login-button:hover {
+  background-color: white;
+  color: #3498db;
+  border-color: #3498db;
+  transition: 0.3s;
+}
+.navbar .navbar-brand a {
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.navbar .navbar-brand a :hover {
+  transition: 0.3s;
+  opacity: 0.7;
+}
+.page-footer {
+  background: linear-gradient(120deg, #3498db, #5dade2);
+  width: 100%;
+  height: 60px;
+}
+.page-footer a {
+  color: white;
+  text-decoration: none;
+}
+.quiz-field .exam-info {
+  padding: 15px 15px 15px 15px;
+  border-radius: 6px;
+  margin-left: 30px;
+  height: 52vh;
+  background-color: white;
+}
+.quiz-field .exam-info .countdown {
+  border-radius: 6px;
+  height: 50px;
+  background-color: #3498db;
+}
+.quiz-field .exam-info .question-number button {
+  background-color: #3498db;
+  border-color: #3498db;
+  padding: 10px 10px;
+  margin: 10px;
+}
+
+.quiz-field .exam-info .question-number {
+  padding: 10px;
+} 
+
+.quiz-field .exam-submit {
+  background-color: #3498db;
+  border-color: #3498db;
+  width: 100%;
+  margin: 0;
+}
+.quiz-field .exam-question {
+  padding: 15px 15px 15px 15px;
+  border-radius: 6px;
+  margin-left: 30px;
+  height: 52vh;
+  background-color: white;
+}
+.direct-button {
+  margin: 15px;
+}
+.direct-button button {
+  background-color: #3498db;
+  border-color: #3498db;
+}
